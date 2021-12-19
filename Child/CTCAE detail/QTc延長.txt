@@ -1,0 +1,19 @@
+QTc延長
+
+Grade 1  
+平均QTc 450-480ms
+
+Grade 2  
+平均QTc 481-500ms
+
+Grade 3  
+平均QTc≧501ms; ベースラインから>60msの変化 
+
+Grade 4  
+Torsade de pointes; 多型性心室頻拍; 重篤な不整脈の徴候/症状
+
+Grade 5  
+-
+
+【定義】
+QT補正間隔延長を特徴とする心臓のリズム障害

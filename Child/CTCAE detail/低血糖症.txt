@@ -1,0 +1,19 @@
+低血糖症
+
+Grade 1  
+＜LLN-55mg/dL; 
+
+Grade 2  
+＜55-40mg/dL; 
+
+Grade 3  
+＜40-30mg/dL; 
+
+Grade 4  
+＜30mg/dL; 生命を脅かす; 発作
+
+Grade 5  
+死亡
+
+【定義】
+臨床検査にて血中ブドウ糖濃度が低下
